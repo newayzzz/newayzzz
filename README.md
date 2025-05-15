@@ -13,22 +13,16 @@ Bachelor of Business Administration (BBA) - Minor in Business Administration (BA
 
 
 🌐 Languages & Technologies I've Worked With:
-Programming Languages: Python, SQL, JavaScript, R, Rust, Swift 
-
-Data Tools: Power BI, Excel (Advanced), SQL (Query Optimization)
-
-Cloud Platforms: Google Cloud Platform (GCP), Azure, AWS, Jira, ServiceNow, Salesforce, DigitalOcean, Nunet, OceanProtocol
-
-Continuous Improvement Tools: Lean Six Sigma (Green Belt Certified), Value Stream Mapping (VSM), Root Cause Analysis
-
-Manufacturing & Quality Systems: FMEA, SPC, Control Plans, 5S, Kanban, visual mgmt 
-
-Blockchain & Web3: Smart Contracts (Solidity), DeFi Protocols, dApp Development, beta testing for new project launches 
+- Programming Languages: Python, SQL, JavaScript, R, Rust, Swift 
+- Data Tools: Power BI, Excel (Advanced), SQL (Query Optimization)
+- Cloud Platforms: Google Cloud Platform (GCP), Azure, AWS, Jira, ServiceNow, Salesforce, DigitalOcean
+- Continuous Improvement Tools: Lean Six Sigma (Green Belt Certified), Value Stream Mapping (VSM), Root Cause Analysis
+- Manufacturing & Quality Systems: FMEA, SPC, Control Plans, 5S, Kanban, visual mgmt 
+- Blockchain & Web3: Smart Contracts (Solidity), DeFi Protocols, dApp Development, beta testing for new project launches (Nunet, OceanProtocol, etc.)
 
 🧐 What I'm Currently Exploring: 
-Enhancing my (Python & SQL) PL skills for data analytics and reporting.
-
-Transitioning into blockchain technology, focusing on data integrity and secure transactions for industrial processes.
+- Enhancing my (Python & SQL) PL skills for data analytics and reporting.
+- Transitioning into blockchain technology, focusing on data integrity and secure transactions for industrial processes.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
 
