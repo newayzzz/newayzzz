@@ -2,7 +2,7 @@
 
 Lately, I’ve been diving deeper into data analytics and automation: learning Python, SQL, R, JS, and even dabbling in blockchain and AI to bring smarter solutions into industrial workflows.
 
-🎓 I hold a B.A.Sc in Industrial Engineering + a BBA minor from the University of Windsor.
+🎓 I hold a B.A.Sc in Industrial Engineering + a BBA minor from the University of Windsor. I also recently completed Stanford University's Code in Place 2025, CIP5, an intensive intro to CS using Python, built on the CS106A curriculum.
 
 🛠️ Tools & Tech I use: Python, SQL, Power BI, AutoCAD, SAP, Azure, GCP, Lean tools, smart contracts, and more.
 
